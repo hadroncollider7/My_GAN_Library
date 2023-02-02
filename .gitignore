@@ -130,3 +130,6 @@ dmypy.json
 
 # Files associated with the Affectnet dataset
 data/
+
+# The script for testing code
+testCode.py
